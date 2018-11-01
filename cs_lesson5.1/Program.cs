@@ -19,7 +19,7 @@ namespace cs_lesson5._1
             bool boolVal = true;
 
             Console.WriteLine("Variable Conversion Example\n");
-            doubleResult = floatVal * shortVal;   
+            doubleResult = floatVal * shortVal;    
             Console.WriteLine("Implicit, -> double: {0}*{1} ->{2}",
                 floatVal,shortVal,doubleResult);
 
